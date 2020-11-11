@@ -9,7 +9,7 @@ Install [PHP](https://www.php.net/downloads.php)
 
 Clone the branch in your php folder and run sudoku.php 
 OR
-Clone the branch in your php folder and Click on this link [Sudoku.php](http://localhost/sudoku-challenge-php/sudoku.php).
+Clone the branch in your php folder and Click on this link [Sudoku.php](http://localhost/sudoku.php).
 
 ## Questions
 1. Is the completed sudoku solved correctly?
